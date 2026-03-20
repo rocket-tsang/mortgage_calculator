@@ -2,6 +2,10 @@
 
 这是一个网页端应用，为购房者提供清晰、便捷的房贷计算与提前还款规划工具。
 
+- 房贷计算器演示地址：[https://fd2.gdman.top/](https://fd2.gdman.top/)
+- 房贷提前还款计算器演示地址：[https://fd1.gdman.top/](https://fd1.gdman.top/)
+- 作者博客地址： [https://blog.gzsoon.com/](https://blog.gzsoon.com/)
+- 
 ## 核心功能
 
 1. **多样化月供测算**
